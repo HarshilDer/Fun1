@@ -65,4 +65,4 @@ Here is a professional, high-energy **README.md** file tailored for your GitHub 
 
 *Developed with a focus on stability, modularity, and vibrant design.*
 
-By:- Shaurya bhai & urs truly Dev Harshil Der. 
+By:- Harshil Der 
